@@ -1,0 +1,457 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sections>
+
+<section id="video">
+    <title>Videodatabasen</title>
+	<icon>category.png</icon>
+<categories>
+    
+<category>
+    <id>1</id>
+    <title>Nakke</title>
+	    <videos>
+	        
+	    	<video>
+	    		<title>Retraktion med ekstension siddende</title>
+	    		<id>nakke1</id>
+	    		<icon>nakke1.png</icon>
+	    		<description>&lt;p&gt;&lt;font color="#FFF"&gt;Sid med ret ryg. Træk nakken lige tilbage og kig bagover.&lt;/font&gt;&lt;/p&gt;</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Retraktion ekstension med patient overpres siddende</title>
+	    		<id>nakke2</id>
+	    		<icon>nakke2.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Sid med ret ryg. Træk nakken lige tilbage og kig bagover&lt;br&gt;
+					Brug hånden til at presse dig yderligere ud i stillingen.&lt;br&gt;
+					&amp;nbsp;&lt;/font&gt;
+	    		</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Rygliggende retraktion</title>
+	    		<id>nakke3</id>
+	    		<icon>nakke3.png</icon>
+	    		<description>&lt;p&gt;&lt;font color="#FFF"&gt;Lig på ryggen. Pres nakken lige ned i underlaget.&lt;/font&gt;&lt;/p&gt;</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Rygliggende retraktion med patient overpres</title>
+	    		<id>nakke4</id>
+	    		<icon>nakke4.png</icon>
+	    		<description>&lt;p&gt;&lt;font color="#FFF"&gt;Lig på ryggen. Pres nakken lige ned i underlaget. Pres ekstra med hånden på hagen&lt;/font&gt;&lt;/p&gt;</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Rygliggende retraktion over briks med patient overpres</title>
+	    		<id>nakke5</id>
+	    		<icon>nakke5.png</icon>
+	    		<description>&lt;p&gt;&lt;font color="#FFF"&gt;Lig på ryggen med nakken fri fra underlaget. Støt nakken med den ene hånd. Pres nakken lige nedad med den anden hånd.&lt;/font&gt;&lt;/p&gt;
+	    		</description>
+	    	</video>	
+	    </videos>
+</category>
+
+<category>
+    <id>2</id>
+    <title>Ryg</title>
+    	<videos>
+ 
+	    	<video>
+	    		<title>Forward lean</title>
+	    		<id>ryg1</id>
+	    		<icon>ryg1.png</icon>
+		    	<description>&lt;font color="#FFF"&gt;Forberedelse&lt;br&gt;
+					Siddende med 90 grader i hofte og&lt;br&gt;
+					knæ. Bevæg 30 grader frem fra hoften&lt;br&gt;
+					Lænden må ikke bevæge sig i fleksion&lt;br&gt;
+					eller bækken i post. tilt Stop&lt;br&gt;
+					bevægelsen hvis det sker.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Ekstension med terapeut overpres</title>
+	    		<id>ryg2</id>
+	    		<icon>ryg2.png</icon>
+		    	<description>&lt;p&gt;&lt;font color="#FFF"&gt;Lig på maven og buk bagover. 
+		    	Der ligges et let pres på hver sin side af rygsøjlen, 
+		    	så ryggen kommer længere ud i stillingen.&lt;/font&gt;&lt;/p&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Ben sænk begge ben</title>
+	    		<id>ryg3</id>
+	    		<icon>ryg3.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Forberedelse&lt;br&gt;
+					Rygliggende med lænde trykkt mod&lt;br&gt;
+					underlaget: Stræk bnet ud så langt det&lt;br&gt;
+					kan lade sige gøre uden lænden løftes&lt;br&gt;
+					fri fra underlaget.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Ben Sænk et ben med støtte</title>
+	    		<id>ryg4</id>
+	    		<icon>ryg4.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Forberedelse&lt;br&gt;
+					Rygliggende med lænden presset let&lt;br&gt;
+					mod underlaget: Stræk det ene ben ud&lt;br&gt;
+					så langt det kan lade sige gøre uden&lt;br&gt;
+					lænden løftes fri fra underlaget.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Heelslide</title>
+	    		<id>ryg5</id>
+	    		<icon>ryg5.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Forberedelse&lt;br&gt;
+					Rygliggende med lænden presset let&lt;br&gt;
+					mod underlaget.&lt;/font&gt;
+				</description>
+	    	</video>
+	    </videos>
+</category>
+
+<category>
+    <id>3</id>
+    <title>Skulder</title>
+    <videos>
+	    	<video>
+	    		<title>Skulder setting med pres</title>
+	    		<id>skulder1</id>
+	    		<icon>skulder1.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;- Sæt skulderbladet på plads ved at løfte&lt;br&gt;
+					skulderrundingen let op mod øret imens skulderen&lt;br&gt;
+					føres let bagud.&lt;br&gt;
+					- Kontroller at skulderen kan holdes på plads imens&lt;br&gt;
+					hhv hoved og skulder kan rotere.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Hånd i lænd - med håndklæde</title>
+	    		<id>skulder2</id>
+	    		<icon>skulder2.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;- Smid et håndklæde ned af ryggen med&lt;br&gt;
+					modsatte arm.&lt;br&gt;
+					- Grib håndklædet omme på ryggen og&lt;br&gt;
+					træk det efterfølgende så højt op som&lt;br&gt;
+					muligt&lt;br&gt;
+					- Hold stillingen i 15 - 20 sekunder inden&lt;br&gt;
+					armen føres tilbage igen.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Indadrotation liggende</title>
+	    		<id>skulder3</id>
+	    		<icon>skulder3.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;- Lig på siden lige ovenpå skulderen (så&lt;br&gt;
+					skuldrene er lige ore hinanden) med bøjet&lt;br&gt;
+					albue og overarmen vinkelret ud fra&lt;br&gt;
+					kroppen&lt;br&gt;
+					- Før underarmen nedad med den anden&lt;br&gt;
+					hånd, så overarmen indadroteres&lt;br&gt;
+					- Pas på ikke at løfte den skulder du ligger&lt;br&gt;
+					på (hold den evt nede med den anden&lt;br&gt;
+					hånd og pres istedet med albuen)&lt;br&gt;
+					- Undgå at læne dig bagud med den anden.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Isometrisk stabilitet</title>
+	    		<id>skulder4</id>
+	    		<icon>skulder4.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;- Find et punkt på væggen at pege på&lt;br&gt;
+					- Træk med modsatte arm i forskellige&lt;br&gt;
+					retninger imens du forsøger at pege på&lt;br&gt;
+					det samme punkt hele tiden.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Udadrotationsfaciliteret fleksion</title>
+	    		<id>skulder5</id>
+	    		<icon>skulder5.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;- Hold elastikken med begge hænder så&lt;br&gt;
+					tommelfingrene vender opad/udad&lt;br&gt;
+					- Før armen opad imens du skiftevis&lt;br&gt;
+					trækker armene let fra hinanden.&lt;br&gt;
+					- Hold spænding på elastikke hele tiden&lt;br&gt;
+					- Forsøg at lave en let udadrotation i&lt;br&gt;
+					bevægelsen (tommelfingre ud til siden).&lt;/font&gt;
+				</description>
+	    	</video>
+	    </videos>
+</category>
+
+<category>
+    <id>4</id>
+    <title>Hofte</title>
+    <videos>
+	    	<video>
+	    		<title>Backward rocking bold mellem fødder pres hårdt på bold</title>
+	    		<id>hofte1</id>
+	    		<icon>hofte1.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Knæﬁrestående med bold mellem hæle. &lt;br&gt;
+					Knæ på Foamrole eller Sitﬁt. &lt;br&gt;
+					Bevæg bagud med neural lænd. &lt;br&gt;
+					Stop ved 120 grader hoftebøjning eller når &lt;br&gt;
+					lænden begynder at runde. &lt;br&gt;
+					Pres samtidig hårdt på bold mellem fødderne.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Sway</title>
+	    		<id>hofte2</id>
+	    		<icon>hofte2.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Bagoverbøjning af ryggen uden at hoften&lt;br&gt;
+					bevæger sig frem.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Fremfald</title>
+	    		<id>hofte3</id>
+	    		<icon>hofte3.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Fremfald tag et skridt frem så langt det kan&lt;br&gt;
+					lade sig gøre.&lt;br&gt;
+					Knæet skal lige frem over foden.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Bækken løft på bold et ben</title>
+	    		<id>hofte4</id>
+	    		<icon>hofte4.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Fra rygliggende med begge ben på Swissball.&lt;br&gt;
+					Løft bækkenet.&lt;br&gt;
+					Løft et ben op og ud før ud til siden.&lt;br&gt;
+					Skift mellem benene.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Squat i dørhåndtag</title>
+	    		<id>hofte5</id>
+	    		<icon>hofte5.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Hold om dørhåndtag.&lt;br&gt;
+					Benbøjning til 90 grader eller til lænden&lt;br&gt;
+					begynder at runde.&lt;/font&gt;
+				</description>
+	    	</video>
+	    </videos>
+</category>
+
+<category>
+    <id>5</id>
+    <title>Knæ</title>
+    <videos>
+	    	<video>
+	    		<title>Nordic hamstring</title>
+	    		<id>knae1</id>
+	    		<icon>knae1.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Knæstående. Makker holder ben. Læn dig&lt;br&gt;
+					forover med strakt ryg så langt som muligt. Tag&lt;br&gt;
+					fra med armene. Skub fra med armene tilbage&lt;br&gt;
+					til udgangsstilling.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Split squat på stol</title>
+	    		<id>knae2</id>
+	    		<icon>knae2.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;&lt;ul&gt;
+				    &lt;li&gt;Stå på et ben med det andet bagud hvilende på en stol.&lt;/li&gt;
+				    &lt;li&gt;Det aktive ben placeres et godt stykke foran stolen.&lt;/li&gt;
+				    &lt;li&gt;Bøj der forreste ben til ca. 90 grader og op igen.&lt;/li&gt;
+				    &lt;li&gt;Sørg for at knæet holdes over foden og ikke ud over tåspidserne.&lt;/li&gt;
+				    &lt;li&gt;Gentag øvelsen og byt ben&lt;/li&gt;
+					&lt;/ul&gt;&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Hasecurl på bold</title>
+	    		<id>knae3</id>
+	    		<icon>knae3.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;&lt;ul&gt;
+				    &lt;li&gt;Lig udstrakt med armene langs siden, begge ben på bolden og bækkenet løftet fri af underlaget.&lt;/li&gt;
+				    &lt;li&gt;Spænd op i hasemuskulaturen og træk bold imod dig selv.&lt;/li&gt;
+				    &lt;li&gt;Rul roligt tilbage og gentag&lt;/li&gt;
+					&lt;/ul&gt;&lt;/font&gt;
+			    </description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>knæ over 2. tå</title>
+	    		<id>knae4</id>
+	    		<icon>knae4.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;&lt;ul&gt;
+    				&lt;li&gt;Stå med forskudte fødder på en måtte.&lt;/li&gt;
+   					 &lt;li&gt;Læn dig langsomt frem med vægtfordeling på dit forreste ben og bøj i knæet.&lt;/li&gt;
+  					  &lt;li&gt;Sørg for at knæet forbliver over 2. tå&lt;/li&gt;
+   					 &lt;li&gt;Læn dig tilbage igen og gentag langsomt&lt;/li&gt;
+					&lt;/ul&gt;&lt;/font&gt;
+			    </description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Eccentrisk decline knæbøj</title>
+	    		<id>knae5</id>
+	    		<icon>knae5.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Stående med begge ben på decline board&lt;br&gt;
+					(skråbræt). Læg vægten over på det ene ben&lt;br&gt;
+					og bøj langsomt ned i knæ. Fordel vægten på&lt;br&gt;
+					begge ben og stræk op til udgangspunkt. Sørg&lt;br&gt;
+					for at knæene bevæger sig lige frem over&lt;br&gt;
+					fødderne.&lt;/font&gt;
+				</description>
+	    	</video>
+	    </videos>
+</category>
+
+<category>
+    <id>6</id>
+    <title>Fod</title>
+    <videos>
+	    	<video>
+	    		<title>Krøl elastik</title>
+	    		<id>fod1</id>
+	    		<icon>fod1.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Siddende. Sæt foden på elastik. Træk&lt;br&gt;
+					elastikken til dig ved at krumme tæerne og&lt;br&gt;
+					spænde musklerne i fodbuen.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Krøl håndklæde</title>
+	    		<id>fod2</id>
+	    		<icon>fod2.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Siddende. Læg et håndklæde på gulvet. Krøl&lt;br&gt;
+					håndklædet ved at krumme tæerne og spænde&lt;br&gt;
+					musklerne i fodbuen.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Excentrisk belastning af Achillessene m bøjet knæ og</title>
+	    		<id>fod3</id>
+	    		<icon>fod3.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Tag en rygsæk på evt med ekstra vægt.&lt;br&gt;
+					Stå med forfoden på trappetrin.&lt;br&gt;
+					Løft op på to ben.&lt;br&gt;
+					Læg vægten over på det skade ben og bøj&lt;br&gt;
+					knæet.&lt;br&gt;
+					Sænk langsomt på et ben til fuldt stræk på&lt;br&gt;
+					læg/sene.&lt;br&gt;
+					Tæl til 3 på vej ned.&lt;br&gt;
+					Læg vægten over på begge ben og løft op.&lt;br&gt;
+					Gentag bevægelsen.
+					&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Excentrisk belastning af Achillessene</title>
+	    		<id>fod4</id>
+	    		<icon>fod4.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Stå med forfoden på trappetrin.&lt;br&gt;
+					Løft op på to ben.&lt;br&gt;
+					Læg vægten over på det skade ben.&lt;br&gt;
+					Sænk langsomt på et ben til fuldt stræk på&lt;br&gt;
+					læg/sene.&lt;br&gt;
+					Tæl til 3 på vej ned.&lt;br&gt;
+					Læg vægten over på begge ben og løft op.&lt;br&gt;
+					Gentag bevægelsen.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Kortfodsøvelse stående squat</title>
+	    		<id>fod5</id>
+	    		<icon>fod5.png</icon>
+	    		<description>&lt;font color="#FFF"&gt;Stående. Løft fodbuen ved at trække tæerne&lt;br&gt;
+					tilbage. Hold tæerne i underlaget. Bøj ned i&lt;br&gt;
+					knæ. Knæ skal gå lige frem over fod.&lt;/font&gt;
+				</description>
+	    	</video>
+	    	
+	    </videos>
+</category>
+
+
+</categories>
+</section>
+
+<section id="grund">
+    <title>Grundprogrammer</title>
+	<icon>category2.png</icon>
+    
+<categories>
+    <category>
+    	<id>7</id>
+    	<title>Tenninsalbue</title>
+    	<videos>
+	    	<video>
+	    		<title>To-hånds udspænding</title>
+	    		<id>tenninsalbue1</id>
+	    		<icon>tenninsalbue1.png</icon>
+	    		<description>&lt;p&gt;&lt;font color="#FFF"&gt;- Knyt h&amp;aring;nden og tr&amp;aelig;k med den anden&lt;br /&gt;
+					h&amp;aring;nd let imod h&amp;aring;ndfladesiden.&lt;/font&gt;&lt;/p&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Udspænding på bord</title>
+	    		<id>tenninsalbue2</id>
+	    		<icon>tenninsalbue2.png</icon>
+	    		<description>&lt;p&gt;&lt;font color="#FFF"&gt;- S&amp;aelig;t h&amp;aelig;nderne p&amp;aring; bordet med fingrene&lt;br /&gt;
+					pegende imod dig selv.&lt;br /&gt;
+					- L&amp;aelig;n dig bagud med strakte albuer.&lt;/font&gt;&lt;/p&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Isometrisk ekstension</title>
+	    		<id>tenninsalbue3</id>
+	    		<icon>tenninsalbue3.png</icon>
+	    		<description>&lt;p&gt;&lt;font color="#FFF"&gt;- Placer den anden h&amp;aring;nd over h&amp;aring;ndryggen&lt;br /&gt;
+					- Pres langsomt h&amp;aring;rdere og h&amp;aring;rdere imod&lt;br /&gt;
+					h&amp;aring;nden.&lt;br /&gt;
+					- Slip sp&amp;aelig;kningen langsomt igen&lt;br /&gt;
+					- Gentag &amp;oslash;velsen hvor du istedet for&lt;br /&gt;
+					h&amp;aring;ndryggen presser p&amp;aring; strakte fingre&lt;br /&gt;
+					- Kan ogs&amp;aring; laves ved at presse h&amp;aring;ndryggen&lt;br /&gt;
+					op imod undersiden af en bordplade.&lt;/font&gt;&lt;/p&gt;
+				</description>
+	    	</video>
+	    	
+	    	<video>
+	    		<title>Isometrisk fleksion</title>
+	    		<id>tenninsalbue4</id>
+	    		<icon>tenninsalbue4.png</icon>
+	    		<description>&lt;p&gt;&lt;font color="#FFF"&gt;- Placer den anden h&amp;aring;nd over h&amp;aring;ndfladen&lt;br /&gt;
+					- Pres langsomt h&amp;aring;rdere og h&amp;aring;rdere imod&lt;br /&gt;
+					h&amp;aring;nden.&lt;br /&gt;
+					- Slip sp&amp;aelig;kningen langsomt igen&lt;br /&gt;
+					- Gentag &amp;oslash;velsen hvor du istedet for&lt;br /&gt;
+					h&amp;aring;ndryggen presser p&amp;aring; strakte fingre&lt;br /&gt;
+					- Kan ogs&amp;aring; laves ved at presse fladen op&lt;br /&gt;
+					imod undersiden af en bordplade.&lt;/font&gt;&lt;/p&gt;
+				</description>
+	    	</video> 	
+	    </videos>
+    </category>
+</categories>
+
+</section> 
+</sections>

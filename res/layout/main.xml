@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/RelativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0"
+         >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:background="@layout/grad_back" >
+
+        <TextView
+            style="@style/title"
+            android:id="@+id/textView1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            
+     		/>
+        
+        <TextView
+            style="@style/slogan"
+            android:id="@+id/textView2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/front"
+            
+            />
+        
+        <ImageView
+	        style="@style/logo"
+	        android:id="@+id/imageView1"
+	        android:src="@drawable/logo"
+	        android:contentDescription="@string/logo"
+		/>
+        <ImageView
+            android:id="@+id/imageView2"
+            style="@style/homeimage"
+            android:contentDescription="@string/homeImage"
+            android:src="@drawable/homeimage"
+            android:layout_weight="1"
+             />
+        
+        <include  layout="@layout/menu" android:id="@+id/id"
+             />
+    </LinearLayout>
+	
+    
+</RelativeLayout>

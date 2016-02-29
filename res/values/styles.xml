@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="txt1Back">#d46935</color>
+	<color name="white">#FFF</color>
+	<color name="test">#f61b1b</color>
+	<color name="menu">#35383a</color>
+	<color name="videos_list">#596c79</color>
+	<color name="state_selected">#40505b</color>
+	<color name="button_pressed">#515253</color>
+	<color name="list_item_state">#5a6d79</color>
+    <style name="title">
+   		<item name="android:textSize">18sp</item>
+   		<item name="android:gravity">center</item>
+   		<item name="android:paddingTop">10dp</item>
+   		<item name="android:paddingBottom">10dp</item>
+   		<item name="android:textStyle">bold</item>
+   		<item name="android:background">@layout/grad_header</item>
+   		<item name="android:textColor">@color/white</item>
+	</style>
+	
+	<style name="slogan">
+    	<item name="android:textSize">16sp</item>
+    	<item name="android:textColor">@color/white</item>
+   		<item name="android:gravity">center</item>
+   		<item name="android:paddingLeft">10dp</item>
+   		<item name="android:paddingRight">10dp</item>
+   		<item name="android:layout_marginTop">25dp</item>
+	</style>
+	
+	<style name="logo">
+	    <item name="android:layout_width">fill_parent</item>
+   		<item name="android:layout_height">70dp</item>
+    	<item name="android:paddingLeft">30dp</item>
+   		<item name="android:paddingRight">30dp</item>
+   		<item name="android:layout_marginTop">25dp</item>
+	</style>
+	
+	<style name="homeimage">
+    	<item name="android:layout_width">fill_parent</item>
+   		<item name="android:layout_height">0dp</item>
+    	<item name="android:paddingLeft">30dp</item>
+   		<item name="android:paddingRight">30dp</item>
+	</style>
+	
+	
+	
+</resources>

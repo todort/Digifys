@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/button_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:background="@layout/btn_grad"
+            
+           
+ >
+        
+        <Button
+            android:id="@+id/homeButton"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:drawableTop="@layout/btn_state_home"
+            android:layout_weight="1"
+            android:textSize="10dp"
+       		android:background="@layout/btn_state_color"
+            android:textColor="@color/white"
+            android:paddingTop="5dp"
+            android:text="@string/home" />
+
+        <Button
+            android:id="@+id/videosButton"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:drawableTop="@layout/btn_state_videos"
+            android:layout_weight="1"
+            android:textSize="10dp"
+   			android:background="@layout/btn_state_color"
+            android:textColor="@color/white"
+            android:paddingTop="5dp"
+            android:text="@string/videos_category" />
+
+        <Button
+            android:id="@+id/instructionsButton"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:drawableTop="@layout/btn_state_instructions"
+            android:textSize="9dp"
+            android:layout_weight="1"
+    		android:background="@layout/btn_state_color"
+            android:textColor="@color/white"
+            android:paddingTop="5dp"
+            android:text="@string/instructions" />
+
+        <Button
+            android:id="@+id/findButton"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:drawableTop="@layout/btn_state_find"
+            android:layout_weight="1"
+            android:textSize="10dp"
+  			android:background="@layout/btn_state_color"
+            android:textColor="@color/white"
+            android:paddingTop="5dp"
+            android:text="@string/find" />
+
+        <Button
+            android:id="@+id/aboutButton"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:drawableTop="@layout/btn_state_about"
+            android:layout_weight="1"
+            android:textSize="10dp"
+   			android:background="@layout/btn_state_color"
+            android:textColor="@color/white"
+            android:paddingTop="5dp"
+            android:text="@string/about" />
+
+        
+        </LinearLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digifys.com</string>
+    <string name="logo">LOGO</string>
+    <string name="homeImage">homeImage</string>
+    <string name="front">Digifys - Skræddersyet til dig og \n din fysioterapeut</string>
+    <string name="home" >Digifys</string>
+    <string name="videos_category">Videoer</string>
+    <string name="videos">Nakke</string>
+    <string name="instructions">Instruktion</string>
+    <string name="find">Find os</string>
+    <string name="about">Om os</string>
+    <string name="dialogMessageCopyAssets">Vent venligst mens kopiering videoer !</string>
+    <string name="dialogMessageJSONUpdater">Vent venligst mens billederne hentes !</string>
+    <string name="toastJSON">Fejl i HTTP-forbindelse. Prøv venligst igen senere.</string>
+    <string name="toastIO">Fejl i downloade billederne. Prøv venligst igen senere.</string>
+    <string name="alertFileNotFound">Fil ikke fundet. Geninstallere programmet.</string>
+    <string name="alertIO">Fejl ved læsning af filen. Tjekke din HTTP-forbindelse.</string>
+    <string name="alertVideosPlay">Fejl afspilning af video. Prøv venligst igen.</string>
+    <string name="instruction_patient">Instruktion til patienten</string>
+    <string name="instruction_fysio">Instruktion til fysioterapeuten</string>
+
+	
+    
+</resources>

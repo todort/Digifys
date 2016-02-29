@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory>
+
+        <EditTextPreference
+                android:key="findUsURL"
+                android:title="http://www.digifys.com/DFApps.ashx?method=FindUs&amp;dfAppNumber=1"
+                android:defaultValue="http://www.digifys.com/DFApps.ashx?method=FindUs&amp;dfAppNumber=1" />
+        
+        <EditTextPreference
+                android:key="aboutUsURL"
+                android:title="http://www.digifys.com/DFApps.ashx?method=AboutUs&amp;dfAppNumber=1"
+                android:defaultValue="http://www.digifys.com/DFApps.ashx?method=AboutUs&amp;dfAppNumber=1" />
+        
+        <EditTextPreference
+                android:key="versionsURL"
+                android:title="http://www.digifys.com/DFApps.ashx?method=GetVersions&amp;dfAppNumber=1"
+                android:defaultValue="http://www.digifys.com/DFApps.ashx?method=GetVersions&amp;dfAppNumber=1" />
+        
+    </PreferenceCategory>
+</PreferenceScreen>
